@@ -1,0 +1,14 @@
+{
+    "name": "quen2/viewalv",
+    "description": "Viewer of Hotels in Las Vegas",
+    "authors": [
+        {
+            "name": "Walddda",
+            "email": "samuel.g.anmeldung@gmail.com"
+        }
+    ],
+    "require": {
+        "typo3fluid/fluid": "^2.6",
+        "twig/twig": "^3.0"
+    }
+}
